@@ -43,13 +43,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.shopme"/>
 		</list>
 		<list key="name">
-			<item value="ShopmeProject"/>
 		</list>
 		<list key="artifactId">
-			<item value="ShopmeProject"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
