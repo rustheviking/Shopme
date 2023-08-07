@@ -1,0 +1,8 @@
+package com.shopme.admin;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface RoleRepository {
+
+}

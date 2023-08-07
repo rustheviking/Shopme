@@ -1,0 +1,5 @@
+spring.thymeleaf.check-template-location=false
+server.port=8085
+server.servlet.context-path=/ShopmeAdmin
+
+spring.datasource.url=jdbc:mysql://localhost:3306/shopmedb
