@@ -110,4 +110,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Happy coding! If you have any questions or need further assistance, feel free to contact us or open an issue. We hope this Shop - eCommerce Web App project serves as a valuable resource for your Spring Boot development endeavors.
+Happy coding! If you have any questions or need further assistance, feel free to contact us or open an issue. We hope this Shopme - eCommerce Web App project serves as a valuable resource for your Spring Boot development endeavors.
